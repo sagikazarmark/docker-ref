@@ -1,3 +1,10 @@
+> [!WARNING]
+> The [Distribution](https://github.com/distribution) now maintains a separate library for parsing Docker image references: [github.com/distribution/reference](https://pkg.go.dev/github.com/distribution/reference).
+>
+> **It is recommended to use that library instead of this one.**
+>
+> This project is archived.
+
 # docker-ref
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/sagikazarmark/docker-ref/ci.yaml?style=flat-square)](https://github.com/sagikazarmark/docker-ref/actions/workflows/ci.yaml)
